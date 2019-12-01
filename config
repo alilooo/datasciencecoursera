@@ -3,6 +3,6 @@
 	filemode = false
 	bare = true
 	symlinks = false
-	ignorecase = false
+	ignorecase = true
 [remote "origin"]
 	url = https://github.com/alilooo/datasciencecoursera
